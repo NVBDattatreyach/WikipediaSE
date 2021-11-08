@@ -1,0 +1,120 @@
+1409365, auschwitz i
+5646214, schindler award
+5646215, schindler award
+247899, auschwitz-birkenau
+14853770, auschwitz ii–birkenau
+1065033, half-jewish
+5299234, auto-anti-semitism
+5299324, auto-antisemitism
+3228435, jews/infobox
+4127857, jewish-ness
+10.632983208
+
+11768043, 1945 paris-roubaix
+10335964, september 
+16187844, 1945 in sport
+15191994, 1945 ashton under lyne by-election
+14764293, ashton-under-lyne by-electio
+14311246, 1945 in motorsports
+8741693, television in 1945
+8574475, úrvalsdeild 1945
+8556175, meistaradeildin 1945
+8555053, deaths in 1945
+22.245941291999998
+
+9181420, astrophysical cosmology
+8452328, stellar astrophysics
+2035457, stellar physics
+8737312, astronom
+6673235, astronomy &astrophysics
+8720972, stellar x-ray astronomy
+1719260, cosmology (physics)
+15119253, high-energy astrophysics
+2748573, astrophysic
+14739635, astronomy and astrophysics abstracts
+24.956003666
+
+1787250, mis'ess
+4047143, dear, dear son-in-law/merge
+4131626, dear, dear son-in-law
+8437193, kennedy-watson k-w
+8437194, k-w
+8437199, kennedy-watson
+8440751, aero-5
+2209170, m-r-s degree
+10940491, mrs. (disambiguation)
+16196024, for mrs. special
+8.441424667000007
+
+7326802, 5 of june
+1250739, june 05
+186570, june 5th
+186569, 5th june
+3180366, jun 05
+1726689, jun 5
+14451090, june 
+5059113, junes
+5672631, 5 cities of june
+5672628, the 5 cities of june
+19.196481333999998
+
+13605369, bonfire of the vanities
+13075056, the bonfire of the vanities (movie)
+9855028, the bonfire of the vanities
+4278576, the bonfire of the vanities
+2038397, the bonfire of the vanities
+8724962, melema (disambiguation)
+3195542, elio
+518696, g. eliot
+2040952, the bonfire of the vanities (film)
+3224759, tito & i
+18.994880832999996
+
+12733172, convolutions
+2450927, convoluted
+9198380, rankin-selberg convolution
+1993796, convolution of functions
+10385999, continuous-time convolution
+11172637, convolution (mathematics)
+1891511, linear convolution
+1891513, nonlinear convolution
+1819909, convolution operator
+1819910, convolution operation
+11.357615166000016
+
+6283343, non-magnetic
+157476, geophysicist
+257426, geophysicists
+2523234, tgs-nopec
+1947968, geophys
+340660, post-processualism
+1104773, post-medieval
+189507, p-form
+647885, anti-spam
+716420, cut-up
+5.099550416999989
+
+6079768, np-hard problems
+2557865, np-hard problem
+8918554, problem of being
+13889, np-complete problem
+1867657, np-complete problem
+1220711, causality problem
+3400362, the 100,000 problem
+7439346, fold-and-cut problem
+6415434, the 100,000‑year problem
+1205726, job-shop problem
+2.242590457999995
+
+184975, han-guk
+3600204, han'guk
+15222845, this is korea!
+1088087, government-general of chosen
+305100, d.p.r.k.
+9750262, n.korea
+2159076, hangook
+3480309, hangug
+7153496, hankuk
+622621, north-korea
+1.0079484169999944
+
